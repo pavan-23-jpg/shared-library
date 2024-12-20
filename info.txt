@@ -1,1 +1,22 @@
-good after noon all
+Git Undo Operations
+Discard working area changes
+git restore <file>
+Un stage a file
+git restore --staged <file>
+Undo a local commit
+git reset <commit-hash> (Commits made after this commit is deleted) (FAQ)
+git reset has three options
+--mixed (It’s default option, It keeps changes in working area)
+--soft (It keeps changes in staging area)
+--hard (It permanently discards changes)
+Git Undo Operations
+Discard working area changes
+git restore <file>
+Un stage a file
+git restore --staged <file>
+Undo a local commit
+git reset <commit-hash> (Commits made after this commit is deleted) (FAQ)
+git reset has three options
+--mixed (It’s default option, It keeps changes in working area)
+--soft (It keeps changes in staging area)
+--hard (It permanently discards changes)
