@@ -20,4 +20,3 @@ git reset has three options
 --mixed (It’s default option, It keeps changes in working area)
 --soft (It keeps changes in staging area)
 --hard (It permanently discards changes)
-igf idugwfu kufweg kwhk fwge ssss
